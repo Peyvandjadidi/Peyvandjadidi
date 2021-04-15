@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peyvandjadidi
 - 👀 I’m interested in programming .
-- 🌱 I’m currently learning C# and practicing python.
+- 🌱 I’m currently learning Kotlin and practicing python.
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me : my instagram : _pyvnd
 
